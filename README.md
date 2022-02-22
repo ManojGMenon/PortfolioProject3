@@ -22,7 +22,7 @@ Analysis Steps:
           - Company Revenue, Sales and Profits by month and year
           - Company wide vs regional sales numbers
           - Top 5 Customers and Products
-          - Revenue vs Profit margins
+          - Revenue vs Profit margin
           - Retail vs Online sales
           
           
