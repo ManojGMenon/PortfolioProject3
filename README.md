@@ -5,11 +5,12 @@ Project Idea :  Came from my wife who is a regional Finance leader who loves to 
 
 Resources used:  YouTube tutorial from https://www.youtube.com/playlist?list=PLeo1K3hjS3usDI9XeUgjNZs6VnE0meBrL
 
-Tools used : EXCEL, SQL, Tableau, Python, Visual Studio Code
-
 Data Source : In the form of a MySQL dump file was provided in the YouTube link.
 
-Analysis Steps:
+Tools used : EXCEL, SQL, Tableau, Python, Visual Studio Code
+
+ANALYSIS STEPS:
+
   ASK  - Problem description and AIMS grid (Purpose, Stakeholders, End Result, Success Criteria)
   
   PREPARE - Data collection and organization (Data source cloned from Github - https://github.com/codebasics/DataAnalysisProjects)
