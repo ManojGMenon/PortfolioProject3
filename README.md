@@ -11,13 +11,17 @@ Data Source : In the form of a MySQL dump file was provided in the YouTube link.
 
 Analysis Steps:
   ASK  - Problem description and AIMS grid (Purpose, Stakeholders, End Result, Success Criteria)
+  
   PREPARE - Data collection and organization (Data source cloned from Github - https://github.com/codebasics/DataAnalysisProjects)
           - Used a Python script to convert the MYSQL dump file into a csv file and then imported into MS SQL. This was a bit challenging.
           - Python code is also stored in this Github repository
           - 5 Tables cleaned up
+          
   PROCESS - Data cleaning and model in Tableau
           - Star Schema created in Tableau with relationships between the tables
+          
   ANALYZE - Create some Calculated fields in Tableau and various views to gain insights
+  
   SHARE   - Pulled together all the views into a couple of interactive Tableau dashboards
           - Company Revenue, Sales and Profits by month and year
           - Company wide vs regional sales numbers
